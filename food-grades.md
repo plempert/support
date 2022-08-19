@@ -3,4 +3,4 @@ This app allows you to easily browse [NYC restaurant inspections data](https://d
 ## Frequently asked questions
 
 ## Support requests
-If you have a request for bug support or new features, please send an email to xxx@gmail.com
+If you have a request for bug support or new features, please send an email to pat.lempert@gmail.com
