@@ -1,2 +1,0 @@
-# about
-Sample text here
