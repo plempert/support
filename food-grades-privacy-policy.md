@@ -1,4 +1,4 @@
-**Privacy Policy**
+# NYC Food Grades Privacy Policy
 
 Patrick Lempert built the NYC Food Grades app as a Free app. This SERVICE is provided by Patrick Lempert at no cost and is intended for use as is.
 
